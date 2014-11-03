@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/WayneLI/Developer/eye_gaze_tracker/TeamTheiaAndroid/openCVTest/app/build/intermediates/pre-dexed/debug/classes-6347702b9e0b58f55d57b9195406db322be8474d.jar"
+        jar="/Users/WayneLI/Developer/eye_gaze_tracker/TeamTheiaAndroid/openCVTest/app/build/intermediates/exploded-aar/openCVTest/opencv/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7f0374bcf78bd614127f97a7133dbfc5d0585331"/>
+
+</pre-dex-items>
