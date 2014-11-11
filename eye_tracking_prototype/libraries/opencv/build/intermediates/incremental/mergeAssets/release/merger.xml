@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/WayneLI/Developer/eye_gaze_tracker/TeamTheiaAndroid/openCVTest/libraries/opencv/src/main/assets"/></dataSet><dataSet config="release"><source path="/Users/WayneLI/Developer/eye_gaze_tracker/TeamTheiaAndroid/openCVTest/libraries/opencv/src/release/assets"/></dataSet></merger>
